@@ -7,5 +7,3 @@ if (number % 2 === 0) {
 else if (number % 2 === 1) {
     console.log("this number is even")
 }
-
-// even or odd
